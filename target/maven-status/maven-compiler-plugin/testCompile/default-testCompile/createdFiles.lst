@@ -1,0 +1,5 @@
+test\actions\Do.class
+test\ApiTest.class
+test\UiTest.class
+test\actions\driver.class
+testSuite\UiAndApiTests.class
