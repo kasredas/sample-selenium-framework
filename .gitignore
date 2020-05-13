@@ -21,3 +21,5 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+target/surefire-reports/TEST-testSuite.UiAndApiTests.xml
+target/surefire-reports/2020-05-13T17-34-14_747.dumpstream
